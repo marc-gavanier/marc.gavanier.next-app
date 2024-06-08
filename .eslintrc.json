@@ -5,6 +5,10 @@
       "files": ["tests/**", "**/*.spec.ts", "**/*.spec.js", "**/*.test.ts", "**/*.test.js"],
       "plugins": ["vitest"],
       "extends": ["plugin:vitest/legacy-recommended"]
+    },
+    {
+      "files": ["**/*.story.ts"],
+      "extends": ["plugin:storybook/recommended"]
     }
   ]
 }

@@ -1,0 +1,412 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "awards": [
+    {
+      "title": "2nd place - Startup Weekend HandyTech",
+      "date": "2017-11-19",
+      "awarder": "Startup Weekend",
+      "summary": "DeafPunk: hearing aid filter configurator for Startup Weekend Lyon Handytech"
+    },
+    {
+      "title": "Winner - Startup Weekend MedTech Lyon",
+      "date": "2016-06-05",
+      "awarder": "Startup Weekend",
+      "summary": "PsychoChat: chat application between psychologists and their patients that allows real time crisis management"
+    },
+    {
+      "title": "Runner up - 101 projets",
+      "date": "2013-11-18",
+      "awarder": "101 projets",
+      "summary": "UniStock: financial algorithms competition platform"
+    },
+    {
+      "title": "Runner up - Imagine Cup 2013",
+      "date": "2013-04-30",
+      "awarder": "Microsoft",
+      "summary": "Fatalys: isometric video game with real-time procedural generation of an infinite world "
+    }
+  ],
+  "basics": {
+    "name": "Marc Gavanier",
+    "label": "Freelance software engineer",
+    "image": "",
+    "email": "marc.gavanier@gmail.com",
+    "phone": "",
+    "summary": "IT engineer, passionate about development, software craftsmanship enthusiast, inspired by clean code, clean architecture, agile development or anything that can help developers improve the delivered value.",
+    "location": {
+      "address": "",
+      "postalCode": "69005",
+      "city": "Lyon",
+      "countryCode": "FR",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "marc-gavanier",
+        "url": "https://www.linkedin.com/in/marc-gavanier"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Efrei, Engineering School of Information and Digital Technologies",
+      "url": "https://www.efrei.fr",
+      "area": "Computer Engineering - Digital Intelligence and Virtual Reality",
+      "studyType": "Master's degree",
+      "startDate": "2009-10-05",
+      "endDate": "2014-09-05",
+      "gpa": "Graduate",
+      "courses": []
+    },
+    {
+      "institution": "Université Paris-Est Marne-la-Vallée",
+      "url": "http://www.u-pem.fr",
+      "area": "Computer Science",
+      "studyType": "Bachelor's Degree in Science, Technology, Health, Mathematics and Computer Science",
+      "startDate": "2009-10-05",
+      "endDate": "2012-10-29",
+      "gpa": "Graduate with distinction",
+      "courses": []
+    },
+    {
+      "institution": "Asia Pacific University of Technology and Innovation (APU / APIIT)",
+      "url": "http://www.apu.edu.my",
+      "area": "Computer science",
+      "studyType": "International Immersion",
+      "startDate": "2011-09-19",
+      "endDate": "2011-12-16",
+      "gpa": "Valid semester",
+      "courses": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbyist game developer",
+      "keywords": ["Game jams", "Scripting", "Drawing", "3D modeling"]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["Running", "Hiking", "Ski", "Horse riding", "Judo"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate"
+    }
+  ],
+  "meta": {
+    "theme": "elegant",
+    "version": "0.0.x",
+    "lastModified": "2020-07-30T00:42:00"
+  },
+  "projects": [],
+  "publications": [],
+  "references": [],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Bootstrap",
+        "JavaScript",
+        "TypeScript",
+        "Angular",
+        "React",
+        "Redux",
+        "RxJs",
+        "Ionic",
+        "Apache Cordova",
+        "Electron"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "C#",
+        ".NET Core",
+        "Entity Framework",
+        "Php",
+        "Laravel",
+        "TypeScript",
+        "Node.js",
+        "Feathers",
+        "REST API",
+        "OpenAPI"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": ["Gitlab", "GitLab CI", "Docker", "Terraform", "Azure", "AWS"]
+    },
+    {
+      "name": "Storage",
+      "level": "Advanced",
+      "keywords": ["SqlServer", "Postgres", "MySQL", "MomgoDB", "OrientDB", "Redis"]
+    },
+    {
+      "name": "Game development",
+      "level": "Intermediate",
+      "keywords": ["Unity", "XNA Game Studio", "Kinect SDK"]
+    },
+    {
+      "name": "Package management",
+      "level": "Master",
+      "keywords": ["NuGet", "Npm", "Yarn", "Composer", "Docker Hub"]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "keywords": ["Git", "Yeoman", "Webpack", "WSL", "Zsh", "IntelliJ-based IDEs", "Postman"]
+    },
+    {
+      "name": "Code quality",
+      "level": "Master",
+      "keywords": [
+        "Design patterns",
+        "TDD",
+        "Clean code",
+        "Clean architecture",
+        "SonarQube",
+        "ESLint",
+        "Prettier",
+        "xUnit",
+        "Jasmine",
+        "Karma",
+        "Jest"
+      ]
+    },
+    {
+      "name": "Methodologies",
+      "level": "Master",
+      "keywords": [
+        "Agile Development",
+        "Scrum Framework",
+        "DevOps",
+        "Test driven development",
+        "Continuous Integration",
+        "Continuous Delivery",
+        "Trunk-Based Development",
+        "Semantic Versioning",
+        "Responsive design"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Efrei Microsoft",
+      "position": "President",
+      "url": "https://www.efrei.fr/associations/technologiques",
+      "website": "https://www.efrei.fr/associations/technologiques",
+      "startDate": "2011-10-24",
+      "endDate": "2012-10-05",
+      "summary": "I joined Efrei Microsoft student association where I learned, practiced and shared a lot about Microsoft technologies",
+      "highlights": [
+        "Support for students on technical subjects related to microsoft technologies",
+        "Weekly training through small projects to learn more about Microsoft technologies",
+        "Organization of events on the campus to promote association activities",
+        "Organization of a conference presented by a Microsoft speaker about kinect and machine learning"
+      ]
+    },
+    {
+      "organization": "Sidaction",
+      "position": "Fundraiser",
+      "url": "https://www.sidaction.org",
+      "website": "https://www.sidaction.org",
+      "startDate": "2009-09-30",
+      "endDate": "2009-09-30",
+      "summary": "Participation in the solidarity day organized by Efrei to help an association fighting against HIV",
+      "highlights": []
+    }
+  ],
+  "work": [
+    {
+      "name": "Self employed",
+      "location": "Lyon, France",
+      "description": "Engineering, R&D and IT Services following best agile practices in lean contexts",
+      "position": "Full Stack Engineer",
+      "startDate": "2021-09-15",
+      "summary": "As developer part of an agile team I contribute to an open source project while improving the code quality following best software engineering practices such as TDD and Clean Architecture",
+      "highlights": [
+        "Conseiller Numérique France Services: development and maintenance of applications that aims to reduce the digital divide in France"
+      ],
+      "keywords": [
+        "Node.js",
+        "JavaScript",
+        "Feathers",
+        "Jest",
+        "React",
+        "Redux",
+        "ESLint",
+        "HTML",
+        "CSS",
+        "Sass",
+        "MongoDB",
+        "Git",
+        "GitHub / GitHub Actions",
+        "Docker",
+        "IntelliJ-based IDEs"
+      ]
+    },
+    {
+      "name": "Addactis Software",
+      "location": "Tassin-la-Demi-Lune, France",
+      "description": "Design, develop and publish software solutions that meet all the needs of insurance and reinsurance companies such as pricing, provisioning, modeling, analysis and reporting.",
+      "position": "Lead Full-stack Engineer",
+      "url": "https://www.addactis-software.com",
+      "website": "https://www.addactis-software.com",
+      "startDate": "2018-01-15",
+      "endDate": "2021-09-14",
+      "summary": "Working in an agile team as technical lead, I have designed, built and maintained modern web applications with a high level quality standard and a fully automated continuous deployment pipeline. I mainly worked with .net core and Angular and served as a cross-team technical resource for architectural design decisions especially on Angular topics",
+      "highlights": [
+        "addactis Profitability: lift and shift a monolith into Azure to recycle a well proved and optimized non-life pricing application embodying complex and valuable business logic. Rewriting of more than 300 views using Angular",
+        "addactis Platform: creation from scratch of a web application that allows to model, plan, plot and process actuarial resources by orchestrating headless data transformation and modeling tools",
+        "addactis Intuition: development and maintenance of a data visualization application allowing to evaluate in real time the risk/return of strategic decisions based on precomputed models",
+        "addactis Extranet: development and maintenance of the Addactis Software applications distribution, documentations and online training platform",
+        "Development of internal Addactis libraries to avoid code duplication between web projects and to promote cross-team development and skill sharing",
+        "Initiation of Addactis Software Design System project for web products, that helps web designers to maintain Addactis visual identity throughout the software range",
+        "Definition of the quality requirements of web applications and deployment of tools to enforce them. Code reviews and interventions on critical topics involving advanced features of the Angular framework",
+        "Design and implementation of of Angular applications architecture for Addactis Software's web products following a domain-oriented approach",
+        "Study and implementation of a saas platform based on aws and provisioned with terraform which aims to manage cloud based addactis projects maintenance and deployment"
+      ],
+      "keywords": [
+        "ASP dotnet Core",
+        "C#",
+        "Entity Framework",
+        "xUnit",
+        "Angular",
+        "Jasmine / Karma",
+        "TSLint / StyleLint",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Sass",
+        "Bootstrap",
+        "SQL Server",
+        "Git",
+        "GitLab / GitLab CI",
+        "ProGet",
+        "SonarQube",
+        "Docker",
+        "Terraform",
+        "AWS",
+        "IntelliJ-based IDEs"
+      ]
+    },
+    {
+      "name": "Thunder Arrow",
+      "location": "Lyon, France",
+      "description": "Development of custom-made, modular and extensible web / mobile / embedded solutions that aims to facilitate the accessibility of technology for small and medium businesses.",
+      "position": "Full-stack Engineer",
+      "startDate": "2014-10-06",
+      "endDate": "2018-01-12",
+      "summary": "I have co-founded Thunder Arrow and worked as full-stack engineer on building custom made composer and npm libraries collections written on top of Laravel and Angular. Based on our libraries I designed and built web and mobile applications for very demanding projects in terms of financial constraints",
+      "highlights": [
+        "OEM: Development of a mobile application for field technicians, allowing them to inspect and update configuration values of embedded devices equipped with Bluetooth Low Energy antenna",
+        "Origamli: Development of a web application for packaging configuration including a WebGL 3D preview and many configuration capabilities such as box formats, pictures, patterns gallery, texts and colors",
+        "Reader game editor: Development of web application to design gamebook, by creating graph based representation of the various paths composing the story",
+        "Menuze: Development of a mobile application allowing the translation of menus in restaurants, by locating the customer using the google map API we were able to offer the customer a menu displayed in his native language",
+        "PWYP: Development of a mobile application for managing discount vouchers and a payment terminal for merchants based on QR codes, allowing customers to apply discounts before the transaction",
+        "Development of internal Thunder arrow libraries to share a generic code base between our client: over composer 40 modules and extensions for Laravel and over 20 npm module for Angular",
+        "Branding visual identity and design system based on Bootstrap"
+      ],
+      "keywords": [
+        "Php",
+        "Laravel",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Ionic 2",
+        "Cordova",
+        "Unity",
+        "HTML",
+        "CSS",
+        "Sass",
+        "Bootstrap",
+        "OrientDB",
+        "Git",
+        "IntelliJ-based IDEs"
+      ]
+    },
+    {
+      "name": "Pharmanity",
+      "location": "Grenoble, France",
+      "description": "A website referencing French pharmacies, their products, services, specialties and opening hours to help you find the available health products you need at the best price.",
+      "position": "Web developer",
+      "url": "https://www.pharmanity.com",
+      "website": "https://www.pharmanity.com",
+      "startDate": "2014-03-31",
+      "endDate": "2014-09-05",
+      "summary": "For my end-of-study internship I wanted to join a startup working on a web based business. I joined Pharmanity where I was able to improve my skills in back and front development, but also in interface design and integration",
+      "highlights": [
+        "Development of a tool to process and import the list of pharmacy products and their availability from the pharmacy management software into Pharmanity database",
+        "Search improvement by adding the services and specialties of pharmacies in search results and by managing the availability of products",
+        "Results page improvement by indicating the location of nearby Pharmacies corresponding to the searched entity using google map",
+        "Development of new administration features and pharmacist customizable pages allowing them to present their pharmacy by indicating opening hours, services and specialities",
+        "SEO improvement by implementing best practices, I obtained good results especially by refactoring url management",
+        "Study for improving the interface and ergonomics of the website and implementation of the new visual elements"
+      ],
+      "keywords": [
+        "Php",
+        "CodeIgniter",
+        "MySQL",
+        "Javascript",
+        "JQuery",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Google Analytics",
+        "Google Map API",
+        "IntelliJ-based IDEs"
+      ]
+    },
+    {
+      "name": "SII Group",
+      "location": "Lyon, France",
+      "description": "A multinational IT services engineering and consulting company that supports digital transformation of large groups from all economic sectors.",
+      "position": "Web developer",
+      "url": "https://sii-group.com",
+      "website": "https://sii-group.com",
+      "startDate": "2013-04-29",
+      "endDate": "2013-10-25",
+      "summary": "For my 4th year internship I wanted to join a large group allowing me to work on a web project using microsoft web technologies. So I joined SII Group where I had the opportunity to work on a large e-commerce site an improve my skills in backend development",
+      "highlights": [
+        "Analysis and documentation of the website by explaining the hierarchy of projects making up the solution and the links they maintain with each other",
+        "Extraction of generic ecommerce modules from the website to allow the reuse of certain parts for future clients",
+        "Participation in the transformation of the e-commerce website into a marketplace to allow sellers to offer their products on the platform"
+      ],
+      "keywords": ["ASP.net MVC 2", "C#", "HTML", "Visual Studio"]
+    },
+    {
+      "name": "GoProd",
+      "location": "Paris, France",
+      "description": "IT software company subsidiary of Iliad, specializing in digital transformation, focused on innovative concepts and improving the user experience.",
+      "position": "Software developer",
+      "url": "http://www.goprod.fr",
+      "website": "http://www.goprod.fr",
+      "startDate": "2012-06-04",
+      "endDate": "2012-06-29",
+      "summary": "I was approached by the ceo of Goprod following a student project allying the sdk kinect and Microsoft XNA Framework, to participate in a proof of concept aiming to propose a new way of interacting with televisions",
+      "highlights": [
+        "Development of Freemote with Kinect, a software that allows to control TV with gestures or voice. Change channels, adjust the volume, pause a program or turn off the TV with simple gestures or voice",
+        "Development of MyLight with Kinect, a software that allows to control electronic devices connected to a home automation outlet with a simple gestures or by clapping hands"
+      ],
+      "keywords": ["Kinect SDK", "WPF", "Xaml", "C#", "Freebox v6 API", "TortoiseSVN", "Visual Studio", "Expression Studio"]
+    }
+  ]
+}
